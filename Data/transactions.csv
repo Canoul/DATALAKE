@@ -1,0 +1,12 @@
+transaction_id,customer_id,transaction_date,product_id,quantity,total_amount,payment_method,transaction_status
+1,101,2024-11-10 10:32:45,P001,2,49.98,Credit Card,Completed
+2,102,2024-11-10 11:15:30,P002,1,19.99,PayPal,Completed
+3,103,2024-11-11 09:20:15,P003,3,89.97,Credit Card,Pending
+4,104,2024-11-12 14:45:00,P004,1,29.99,Debit Card,Cancelled
+5,105,2024-11-13 16:30:25,P001,1,24.99,Bank Transfer,Completed
+6,106,2024-11-14 08:50:10,P005,2,39.98,PayPal,Failed
+7,107,2024-11-14 10:15:35,P006,1,14.99,Credit Card,Completed
+8,108,2024-11-15 12:05:55,P007,5,124.95,PayPal,Completed
+9,109,2024-11-15 13:30:45,P008,2,59.98,Debit Card,Completed
+10,110,2024-11-15 15:45:10,P009,4,79.96,Credit Card,Pending
+    

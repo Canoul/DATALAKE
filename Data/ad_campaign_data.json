@@ -1,0 +1,413 @@
+[
+    {
+        "ad_id": "AD1001",
+        "campaign_id": "CAMP001",
+        "timestamp": "2023-11-01T09:00:00Z",
+        "impressions": 500,
+        "clicks": 50,
+        "conversions": 5,
+        "spend": 100.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1002",
+        "campaign_id": "CAMP002",
+        "timestamp": "2023-11-02T10:15:00Z",
+        "impressions": 10000,
+        "clicks": 500,
+        "conversions": 50,
+        "spend": 250.5,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1003",
+        "campaign_id": "CAMP003",
+        "timestamp": "2023-11-03T14:30:00Z",
+        "impressions": 200000,
+        "clicks": 10000,
+        "conversions": 250,
+        "spend": 1200.75,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1004",
+        "campaign_id": "CAMP004",
+        "timestamp": "2023-11-04T18:45:00Z",
+        "impressions": 500000,
+        "clicks": 150000,
+        "conversions": 450,
+        "spend": 7500.0,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1005",
+        "campaign_id": "CAMP005",
+        "timestamp": "2023-11-05T08:10:00Z",
+        "impressions": 1000,
+        "clicks": 250,
+        "conversions": 12,
+        "spend": 65.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1006",
+        "campaign_id": "CAMP006",
+        "timestamp": "2023-11-06T16:00:00Z",
+        "impressions": 15000,
+        "clicks": 500,
+        "conversions": 30,
+        "spend": 450.0,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1007",
+        "campaign_id": "CAMP007",
+        "timestamp": "2023-11-07T13:20:00Z",
+        "impressions": 900000,
+        "clicks": 45000,
+        "conversions": 750,
+        "spend": 9200.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1008",
+        "campaign_id": "CAMP008",
+        "timestamp": "2023-11-08T20:35:00Z",
+        "impressions": 8000,
+        "clicks": 300,
+        "conversions": 25,
+        "spend": 350.0,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1009",
+        "campaign_id": "CAMP009",
+        "timestamp": "2023-11-09T22:50:00Z",
+        "impressions": 700000,
+        "clicks": 1000000,
+        "conversions": 1000,
+        "spend": 10000.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1010",
+        "campaign_id": "CAMP010",
+        "timestamp": "2023-11-10T11:05:00Z",
+        "impressions": 250,
+        "clicks": 500,
+        "conversions": 5,
+        "spend": 150.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1011",
+        "campaign_id": "CAMP011",
+        "timestamp": "2023-11-11T14:00:00Z",
+        "impressions": 55000,
+        "clicks": 40000,
+        "conversions": 450,
+        "spend": 5600.0,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1012",
+        "campaign_id": "CAMP012",
+        "timestamp": "2023-11-12T19:30:00Z",
+        "impressions": 120000,
+        "clicks": 8000,
+        "conversions": 200,
+        "spend": 900.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1013",
+        "campaign_id": "CAMP013",
+        "timestamp": "2023-11-13T17:15:00Z",
+        "impressions": 500000,
+        "clicks": 125000,
+        "conversions": 500,
+        "spend": 8900.0,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1014",
+        "campaign_id": "CAMP014",
+        "timestamp": "2023-11-14T12:50:00Z",
+        "impressions": 50,
+        "clicks": 10,
+        "conversions": 1,
+        "spend": 10.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1015",
+        "campaign_id": "CAMP015",
+        "timestamp": "2023-11-15T08:05:00Z",
+        "impressions": 800000,
+        "clicks": 100000,
+        "conversions": 999,
+        "spend": 9999.0,
+        "currency": "EUR"
+    },
+    {
+        "ad_id": "AD1016",
+        "campaign_id": "CAMP016",
+        "timestamp": "2023-11-16T10:20:00Z",
+        "impressions": 1500,
+        "clicks": 750,
+        "conversions": 3,
+        "spend": 120.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1017",
+        "campaign_id": "CAMP017",
+        "timestamp": "2023-11-17T15:40:00Z",
+        "impressions": 6000,
+        "clicks": 4000,
+        "conversions": 50,
+        "spend": 800.0,
+        "currency": "USD"
+    },
+    {
+        "ad_id": "AD1018",
+        "campaign_id": "CAMP018",
+        "timestamp": "2023-11-18T21:50:00Z",
+        "impressions": 30000,
+        "clicks": 25000,
+        "conversions": 200,
+        "spend": 5500.0,
+        "currency": "EUR"
+    },
+        {
+          "ad_id": "AD0025",
+          "campaign_id": "CAMP001",
+          "timestamp": "2023-04-30T09:00:00Z",
+          "impressions": 253494,
+          "clicks": 84804,
+          "conversions": 714,
+          "spend": 8533.58,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0026",
+          "campaign_id": "CAMP002",
+          "timestamp": "2024-10-25T09:00:00Z",
+          "impressions": 782793,
+          "clicks": 418177,
+          "conversions": 333,
+          "spend": 2352.87,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0027",
+          "campaign_id": "CAMP003",
+          "timestamp": "2024-03-03T09:00:00Z",
+          "impressions": 244689,
+          "clicks": 17246,
+          "conversions": 939,
+          "spend": 4131.87,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0028",
+          "campaign_id": "CAMP004",
+          "timestamp": "2024-08-11T09:00:00Z",
+          "impressions": 794751,
+          "clicks": 50518,
+          "conversions": 139,
+          "spend": 9844.38,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0029",
+          "campaign_id": "CAMP005",
+          "timestamp": "2024-05-10T09:00:00Z",
+          "impressions": 842231,
+          "clicks": 842649,
+          "conversions": 222,
+          "spend": 2911.95,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0030",
+          "campaign_id": "CAMP006",
+          "timestamp": "2023-11-22T09:00:00Z",
+          "impressions": 124567,
+          "clicks": 23456,
+          "conversions": 899,
+          "spend": 1753.76,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0031",
+          "campaign_id": "CAMP007",
+          "timestamp": "2023-07-14T09:00:00Z",
+          "impressions": 562678,
+          "clicks": 31234,
+          "conversions": 512,
+          "spend": 3142.85,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0032",
+          "campaign_id": "CAMP008",
+          "timestamp": "2023-05-09T09:00:00Z",
+          "impressions": 184923,
+          "clicks": 15773,
+          "conversions": 210,
+          "spend": 1124.01,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0033",
+          "campaign_id": "CAMP009",
+          "timestamp": "2024-01-19T09:00:00Z",
+          "impressions": 914423,
+          "clicks": 547968,
+          "conversions": 319,
+          "spend": 1289.72,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0034",
+          "campaign_id": "CAMP010",
+          "timestamp": "2023-12-17T09:00:00Z",
+          "impressions": 732982,
+          "clicks": 689332,
+          "conversions": 921,
+          "spend": 9512.55,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0035",
+          "campaign_id": "CAMP001",
+          "timestamp": "2024-04-12T09:00:00Z",
+          "impressions": 629448,
+          "clicks": 401307,
+          "conversions": 745,
+          "spend": 7629.31,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0036",
+          "campaign_id": "CAMP002",
+          "timestamp": "2024-07-05T09:00:00Z",
+          "impressions": 451237,
+          "clicks": 326891,
+          "conversions": 255,
+          "spend": 4123.15,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0037",
+          "campaign_id": "CAMP003",
+          "timestamp": "2024-09-01T09:00:00Z",
+          "impressions": 620581,
+          "clicks": 378674,
+          "conversions": 140,
+          "spend": 5337.66,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0038",
+          "campaign_id": "CAMP004",
+          "timestamp": "2023-06-15T09:00:00Z",
+          "impressions": 985432,
+          "clicks": 18923,
+          "conversions": 937,
+          "spend": 7219.31,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0039",
+          "campaign_id": "CAMP005",
+          "timestamp": "2023-02-21T09:00:00Z",
+          "impressions": 723840,
+          "clicks": 639432,
+          "conversions": 671,
+          "spend": 4237.43,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0040",
+          "campaign_id": "CAMP006",
+          "timestamp": "2024-01-07T09:00:00Z",
+          "impressions": 143278,
+          "clicks": 53921,
+          "conversions": 822,
+          "spend": 3194.48,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0041",
+          "campaign_id": "CAMP007",
+          "timestamp": "2024-02-19T09:00:00Z",
+          "impressions": 832495,
+          "clicks": 309834,
+          "conversions": 230,
+          "spend": 6128.17,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0042",
+          "campaign_id": "CAMP008",
+          "timestamp": "2024-03-30T09:00:00Z",
+          "impressions": 112091,
+          "clicks": 27198,
+          "conversions": 312,
+          "spend": 1503.12,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0043",
+          "campaign_id": "CAMP009",
+          "timestamp": "2023-10-10T09:00:00Z",
+          "impressions": 842750,
+          "clicks": 115432,
+          "conversions": 193,
+          "spend": 4826.62,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0044",
+          "campaign_id": "CAMP010",
+          "timestamp": "2023-12-19T09:00:00Z",
+          "impressions": 130328,
+          "clicks": 106234,
+          "conversions": 486,
+          "spend": 1582.96,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0045",
+          "campaign_id": "CAMP001",
+          "timestamp": "2024-06-02T09:00:00Z",
+          "impressions": 956483,
+          "clicks": 484726,
+          "conversions": 687,
+          "spend": 3589.13,
+          "currency": "EUR"
+        },
+        {
+          "ad_id": "AD0046",
+          "campaign_id": "CAMP002",
+          "timestamp": "2023-09-18T09:00:00Z",
+          "impressions": 546037,
+          "clicks": 472153,
+          "conversions": 245,
+          "spend": 7945.34,
+          "currency": "USD"
+        },
+        {
+          "ad_id": "AD0047",
+          "campaign_id": "CAMP003",
+          "timestamp": "2024-11-15T09:00:00Z",
+          "impressions": 983123,
+          "clicks": 472530,
+          "conversions": 845,
+          "spend": 6527.83,
+          "currency": "EUR"
+        }      
+
+]
